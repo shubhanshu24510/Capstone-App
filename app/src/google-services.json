@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876864713768",
+    "project_id": "reader-capstone-app",
+    "storage_bucket": "reader-capstone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876864713768:android:32a475ff3fa14a4733711d",
+        "android_client_info": {
+          "package_name": "com.shubhans.readercapstoneappliaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876864713768-h3ec3pcnbpvngm68s8l2npm43p8pk3gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALR4OB8eyZt4aiuMwZBO2doBfy6EWkHNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876864713768-h3ec3pcnbpvngm68s8l2npm43p8pk3gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
