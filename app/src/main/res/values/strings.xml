@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Reader Capstone Appliaction</string>
+    <string name="app_about">"Please enter a valid email and password that is at least 6 character</string>
 </resources>

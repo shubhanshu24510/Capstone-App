@@ -8,7 +8,6 @@ import com.shubhans.readercapstoneappliaction.screens.SplashScreen
 import com.shubhans.readercapstoneappliaction.screens.home.HomeScreen
 import com.shubhans.readercapstoneappliaction.screens.login.LoginScreen
 import com.shubhans.readercapstoneappliaction.screens.search.SearchScreen
-
 @Composable
 fun NavigationScreen(){
     val navController = rememberNavController()
@@ -24,9 +23,7 @@ fun NavigationScreen(){
         }
         composable(ReaderScreen.SearchScreen.name){
             SearchScreen(navController =navController)
-
         }
-
         }
     }
 
